@@ -67,7 +67,7 @@ const products = [
             "KASHTHBHANJAN Foldable Leg Camping Stool Travelling Fishing Hiking Beach Garden Stool Chair (Multicolor).",
         link:
             "https://dl.flipkart.com/dl/kashthbhanjan-foldable-leg-camping-stool-travelling-fishing-hiking-beach-garden-chair/p/itm13dd8dcf69873?pid=CHAHE4H6PUMTHKZT&lid=LSTCHAHE4H6PUMTHKZTORSLYJ&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJwbXVfdjIiLCJwcnB0IjoiaHAiLCJtaWQiOiJjb250aW51dW0vaHAifQ==&affid=inf_51472092-e183-460d-9a50-d50bccce0103&_refId=&_appId=CL"
-    }
+    },
 
 
     { 
