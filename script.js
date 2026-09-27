@@ -78,7 +78,27 @@ const products = [
         image: "assets/product6.jpg",
         description: "SKagro Wireless Doorbell Wireless Door Chime (36 Tunes)",
         link: "https://dl.flipkart.com/s/vvF2RGNNNN"
-    }
+    },
+   
+   {
+    id: "07",
+    name: " Keypad Lock",
+    category: "tech",
+    badge: "NEW",
+    image: "assets/product7.jpg",
+    description: "SUNNIFA Bike Brake Keypad Lock Locking System By Holding Handle Bar With Brake Lever Motorcycle Safety Lock Pad Lock (Multicolor)",
+    link: "https://dl.flipkart.com/s/6IL2ZjNNNN"
+ },
+   
+   {
+    id: "08",
+    name: "Anti Theft Disc Brake Lock",
+    category: "tech",
+    badge: "NEW",
+    image: "assets/product8.jpg",
+    description: "CROXIV Anti Theft Disc Brake Security Universal For All Bikes and Scooter Disc Lock (Black)",
+    link: "https://dl.flipkart.com/s/6!0ox9NNNN"
+}
 ];
 
 
